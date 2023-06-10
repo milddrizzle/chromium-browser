@@ -61,7 +61,7 @@ killall -q -SIGTERM chromium-browser || \
 Paste this into your shell:
 
 ```bash
-git clone https://github.com/proprietary/chromium-widevine.git && \
+git clone https://github.com/MildDrizzle/chromium-browser.git && \
 	cd chromium-widevine && \
 	./use-standalone-widevine.sh && \
 	killall -q -SIGTERM chromium-browser || \
