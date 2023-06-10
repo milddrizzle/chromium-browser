@@ -1,4 +1,4 @@
-# Installing Widevine on Chromium on GNU/Linux
+# Installing Browser on Chromium on GNU/Linux
 
 Or: How to get Spotify/Netflix working on Chromium in Linux
 
