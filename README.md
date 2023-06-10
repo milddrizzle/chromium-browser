@@ -25,7 +25,7 @@ The following script symlinks Google Chrome's Widevine library to Chromium's dir
 Paste this into your terminal:
 
 ```bash
-git clone https://github.com/proprietary/chromium-widevine.git && \
+git clone https://github.com/MildDrizzle/chromium-browser.git && \
 	cd chromium-widevine && \
 	./use-from-google-chrome.sh
 ```
