@@ -1,4 +1,4 @@
-# Installing Browser on Chromium on GNU/Linux
+# Installing Browser on Chromium on Linux
 
 Or: How to get Spotify/Netflix working on Chromium in Linux
 
